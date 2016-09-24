@@ -1,0 +1,21 @@
+<QTESTER_PLAYLIST>
+<HEADER>
+<VERSION>
+QTester_V_2_0
+</VERSION>
+</HEADER>
+<BODY>
+<CONFIGURATION>
+<OPTIONS>
+<No. Of Options 'n'>, <Option 1 | Label, Key>, ... <Option 'n' | Label, Key>
+<OPTIONS>
+<VIDEOs>
+<correct option '1 .. n'>, <video name>
+<correct option '1 .. n'>, <video name>
+:
+:
+:
+<correct option '1 .. n'>, <video name>
+</VIDEOs>
+</BODY>
+</QTESTER_PLAYLIST>
