@@ -1,4 +1,0 @@
-comctl32.lib;strmiids.lib;mfuuid.lib;%(AdditionalDependencies)
-strmiids.lib;quartz.lib;msvcrt.lib;winmm.lib;olepro32.lib;wmvcore.lib;atls.lib;%(AdditionalDependencies)
-
-WINMM.LIB
